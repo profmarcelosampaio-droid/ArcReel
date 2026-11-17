@@ -28,3 +28,19 @@ uv run python scripts/gate.py backend frontend     # 或直接点名域；各域
 - Triage 标签状态机：`docs/agents/triage-labels.md`。
 - 领域文档（`GLOSSARY.md` + `docs/adr/`）的使用方式：`docs/agents/domain.md`。
 - 项目 schema 迁移：新增或修改 `lib/project/project_migrations/` 的迁移步、改动产物补录规划器时读 `docs/agents/project-migrations.md`。
+
+## Memória do usuário (Sampaio Estúdio)
+
+Este repositório é o fork de `profmarcelosampaio-droid` para o projeto **Sampaio Estúdio**. As sessões na nuvem começam do zero, então o que deve persistir entre conversas fica registrado aqui.
+
+- Idioma: responder ao usuário em **português (Brasil)**. As regras técnicas acima continuam valendo como estão.
+- Branch de trabalho: `claude/sampaio-studio-t93mz9`.
+- Atualizar esta seção sempre que o usuário trouxer objetivos, preferências ou decisões novas.
+
+### Objetivos
+
+- (a definir com o usuário)
+
+### Decisões e preferências
+
+- (a definir com o usuário)
