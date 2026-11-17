@@ -39,8 +39,10 @@ Este repositório é o fork de `profmarcelosampaio-droid` para o projeto **Sampa
 
 ### Objetivos
 
-- (a definir com o usuário)
+- Série de vídeos verticais (1080x1920) de ensino de português, com o professor Marcelo Sampaio como personagem, em estilo paródia de jogo de mundo aberto ("grave til agudo VI"). Ep. 1: "Missão – O Resgate do Circunflexo" (acento diferencial e Novo Acordo). Próximos episódios: grave, til e agudo.
 
 ### Decisões e preferências
 
-- (a definir com o usuário)
+- Preservar a identidade visual da série (HUD de missão, estrelas de procurado, cartazes, legenda em karaokê amarelo).
+- Economizar tokens: se o vídeo já estiver bom, não reeditar só por reeditar.
+- Em vídeos, manter textos e botões fora das áreas cobertas pela interface do TikTok/Reels (faixa direita e rodapé).
